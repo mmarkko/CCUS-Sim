@@ -1,5 +1,9 @@
 {
   "VoilaConfiguration": {
-    "strip_sources": true
+    "strip_sources": true,
+    "preprocessor_class": "nbconvert.preprocessors.TagRemovePreprocessor"
+  },
+  "TagRemovePreprocessor": {
+    "remove_cell_tags": ["remove_cell"]
   }
 }
