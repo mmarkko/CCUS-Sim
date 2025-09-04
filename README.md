@@ -1,6 +1,6 @@
 # CCUS Pathways – Interactive Simulator
 
-Personal project exploring the trade-offs in **Carbon Capture, Utilization and Storage (CCUS)** with a simple, transparent Python model.
+Project exploring the trade-offs in **Carbon Capture, Utilization and Storage (CCUS)** with a simple, transparent Python model.
 
 - Adjust assumptions (costs, energy use, grid carbon intensity, deployment scale)
 - Explore multiple simulation modes
